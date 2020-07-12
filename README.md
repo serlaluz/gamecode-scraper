@@ -1,1 +1,1 @@
-# gamecode-scrapper
+# gamecode-scraper
